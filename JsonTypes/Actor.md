@@ -1,5 +1,5 @@
 # Actor
-Actors are basic level-building blocks. They are used as props that are used to create level's structure.
+Actors are basic level-building blocks. They are used as props that create level's structure.
 
 ## Actor Types
 There are many actor types that can be spawned in custom levels, some of them can have their own custom properties. Each actor type has it's unique type identifier that must be used in order to spawn it:
